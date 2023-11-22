@@ -7,7 +7,7 @@ public class Task3 {
     double e = 6.8;
     double r = 3.1;
     double t = 5.7;
-    double y = Math.round(q*w*e*r*t*100.0)/100.0;
+    double y = Math.round(q*w*e*r*t*100.0)/100.0;//test this comment//
     System.out.println("number " + q + " * number "+ w + " * number " + e + " * number " + r + " * number " + t + " equals "+ y);
  }
 }
